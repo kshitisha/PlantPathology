@@ -22,15 +22,17 @@ Classify plant leaf images into multiple categories using:
 
 ## Project Structure
 PlantPathology/
-├── plantpathology.py # Python script to train and evaluate models
-├── plant_disease_model.pkl # Saved Random Forest model
+<pre> project-root/
+├── plantpathology.py  Python script to train and evaluate models
+├── plant_disease_model.pkl  Saved Random Forest model
 ├── results/
-│   ├── random_forest_cm.png # Random Forest confusion matrix
-│   ├── svm_cm.png # SVM confusion matrix
-│   ├── xgboost_cm.png # XGBoost confusion matrix
-│   ├── random_forest_report.txt # Classification report
+│   ├── random_forest_cm.png  Random Forest confusion matrix
+│   ├── svm_cm.png SVM confusion matrix
+│   ├── xgboost_cm.png  XGBoost confusion matrix
+│   ├── random_forest_report.txt  Classification report
 │   ├── svm_report.txt
 │   ├── xgboost_report.txt
+</pre>
 
 
 
