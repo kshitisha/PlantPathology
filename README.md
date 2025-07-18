@@ -74,6 +74,8 @@ PlantPathology/
    cd PlantPathology
    pip install -r requirements.txt
    python plantpathology.py
+## Dataset
+This project uses the [Plant Pathology 2020 dataset](https://www.kaggle.com/c/plant-pathology-2020-fgvc7/data) from Kaggle.  
 ## Tech Stack
 Python
 
