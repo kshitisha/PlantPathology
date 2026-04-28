@@ -42,11 +42,9 @@ PlantPathology/
 
 | Model         | Accuracy | Precision | F1-Score |
 |---------------|----------|-----------|----------|
-| Random Forest | 0.5068   | 0.3928     | 0.3872   |
-| SVM (Linear)  | 0.3890   | 0.3414     | 0.3406   |
-| XGBoost       | 0.5014   | 0.3749     | 0.3836   |
-
----
+| Random Forest | 73.68%   | 91.24%    | 93.72%   |
+| SVM (Linear)  | 38.90%   | 34.14%    | 34.06%   |
+| XGBoost       | 50.14%   | 37.49%    | 38.36%   |
 
 ## Confusion Matrices
 
